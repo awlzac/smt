@@ -1,0 +1,8 @@
+db.sqlite3*
+.project
+.pydevproject
+.settings
+*.pyc
+*.py.swp
+__pycache__
+.ve/
