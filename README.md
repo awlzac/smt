@@ -1,7 +1,11 @@
-Sherpany Map Test - notes
+Test project - one page app 
 ---------------------
 Tim Messick 
 
+Demonstration of basics of Django/Python/Javascript/AJAX/3rd party API integration
+
+Notes
+------
 
 To Run:
 1) Make sure you have virtualenv available
